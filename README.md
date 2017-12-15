@@ -1,2 +1,2 @@
 # smrt1paper
-notebooks to generate figure in smrt v1.0 paper
+notebooks to generate figures in smrt v1.0 paper
